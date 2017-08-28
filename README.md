@@ -36,3 +36,7 @@ Test Data:
 
     Basket: SR1, SR1, FR1, SR1
     Total price expected: £16.61
+
+## Running test cases
+
+    npm run test
